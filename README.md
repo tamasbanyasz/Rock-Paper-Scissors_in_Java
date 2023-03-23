@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors_in_Java
+# Rock-Paper-Scissors in Java
